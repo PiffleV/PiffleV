@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+
+I'm too lazy to make this good it's like 10:30 PM CST
+
+Basically I am learning C++, and I have a few years experience on Python.
+ok thats it bye
 
 <!--
 **PiffleV/PiffleV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
