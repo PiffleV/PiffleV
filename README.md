@@ -3,6 +3,7 @@
 I'm too lazy to make this good it's like 10:30 PM CST
 
 Basically I am learning C++, and I have a few years experience on Python.
+i also have some experience with web design (js, html, css)
 ok thats it bye
 
 Email: pifflev@zephyros1938.org
